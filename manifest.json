@@ -1,0 +1,6 @@
+{
+  "name": "drupal-webcomponents",
+  "short_name": "drupal-webcomponents",
+  "start_url": "/",
+  "display": "standalone"
+}
